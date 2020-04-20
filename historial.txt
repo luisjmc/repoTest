@@ -1,0 +1,12 @@
+    1  git config --global user.luisjmc
+    2  pwd
+    3  history
+    4  pwd
+    5  history
+    6  git config --global user.name "luisjmc"
+    7  git config --global user.email "lucho_mxt@hotmail.com"
+    8  git config -l
+    9  git clone https://github.com/luisjmc/repoTest.git
+   10  history>historial.txt
+   11  cd repoTest/
+   12  history>historial.txt
